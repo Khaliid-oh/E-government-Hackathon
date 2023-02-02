@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+.container{
+  margin: 80px auto 0 auto;
+}
+.nav-bar{
+  margin: auto;
+  max-width: 1200px;
+}
+.nav-bar:hover{
+  cursor: pointer;
+}
